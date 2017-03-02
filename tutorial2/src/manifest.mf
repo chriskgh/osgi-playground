@@ -1,0 +1,7 @@
+Bundle-Name: English dictionary
+Bundle-Description: A bundle that registers an English dictionary service
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: com.allianz.cka.osgi.playground.tutorial2.Activator
+Export-Package: com.allianz.cka.osgi.playground.tutorial2.service
+Import-Package: org.osgi.framework

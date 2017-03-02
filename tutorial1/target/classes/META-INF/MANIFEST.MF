@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1488469264554
+Build-Jdk: 1.8.0_31
+Built-By: rt65b86
+Bundle-Activator: com.allianz.cka.osgi.playground.tutorial1.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: tutorial1 OSGi Bundle
+Bundle-SymbolicName: com.allianz.cka.osgi.playground.tutorial1
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.framework;version="[1.6,2)",org.osgi.service.lo
+ g;version="[1.3,2)"
+Tool: Bnd-1.50.0
