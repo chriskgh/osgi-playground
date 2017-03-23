@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>tutorial2</artifactId>
+    <artifactId>tutorial2b</artifactId>
     <packaging>bundle</packaging>
 
-    <name>tutorial2 OSGi Bundle</name>
+    <name>tutorial2b OSGi Bundle</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -34,7 +34,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-Activator>com.allianz.cka.osgi.playground.tutorial2.Activator</Bundle-Activator>
+                        <Bundle-Activator>com.allianz.cka.osgi.playground.tutorial2b.Activator</Bundle-Activator>
                         <Export-Package/>
                     </instructions>
                 </configuration>
